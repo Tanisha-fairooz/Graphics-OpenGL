@@ -15,7 +15,7 @@ The project demonstrates fundamental concepts of computer graphics, including:
 - Animated trees
 - Interactive control of animation speed and direction
 
-The scene represents the Shaheed Minar along with buildings, trees, clouds, the sun, a car, an ambulance, a mosque, a medical facility, and surrounding ground elements. 
+The scene represents the Shaheed Minar along with buildings, trees, clouds, the sun, a car, an ambulance, a mosque, a medical, and surrounding ground elements. 
 
 ## Features
 
@@ -30,7 +30,7 @@ The scene contains:
 - Clouds
 - Small and large trees
 - Multiple buildings
-- Medical facility
+- Medical 
 - Mosque
 - Car
 - Ambulance
