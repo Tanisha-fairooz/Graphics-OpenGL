@@ -15,7 +15,7 @@ The project demonstrates fundamental concepts of computer graphics, including:
 - Animated trees
 - Interactive control of animation speed and direction
 
-The scene represents the Shaheed Minar along with buildings, trees, clouds, the sun, a car, an ambulance, a mosque, a medical facility, and surrounding ground elements. :contentReference[oaicite:1]{index=1}
+The scene represents the Shaheed Minar along with buildings, trees, clouds, the sun, a car, an ambulance, a mosque, a medical facility, and surrounding ground elements. 
 
 ## Features
 
@@ -35,7 +35,7 @@ The scene contains:
 - Car
 - Ambulance
 
-These elements are implemented as separate drawing functions and composed together to create the complete scene. :contentReference[oaicite:2]{index=2}
+These elements are implemented as separate drawing functions and composed together to create the complete scene. 
 
 ### Animation
 
@@ -49,7 +49,7 @@ The project includes several animated elements:
 - Adjustable cloud direction
 - Adjustable car speed
 
-Timer functions are used to continuously update the animated objects and refresh the scene. :contentReference[oaicite:3]{index=3}
+Timer functions are used to continuously update the animated objects and refresh the scene. 
 
 ## Controls
 
@@ -65,7 +65,7 @@ Timer functions are used to continuously update the animated objects and refresh
 | `Left Mouse Button` | Decrease car speed |
 | `Right Mouse Button` | Increase car speed |
 
-The keyboard and mouse controls are implemented through GLUT callback functions. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+The keyboard and mouse controls are implemented through GLUT callback functions. 
 
 ## Technologies Used
 
