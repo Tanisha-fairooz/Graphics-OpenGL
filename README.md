@@ -1,6 +1,6 @@
 # Shaheed Minar - OpenGL Computer Graphics Project
 
-An interactive 2D computer graphics project that recreates the **Shaheed Minar and its surrounding environment** using OpenGL and GLUT. The scene combines the monument, buildings, trees, clouds, vehicles, and other environmental elements with interactive animations and day-night transitions. :contentReference[oaicite:0]{index=0}
+An interactive 2D computer graphics project that recreates the **Shaheed Minar and its surrounding environment** using OpenGL and GLUT. The scene combines the monument, buildings, trees, clouds, vehicles, and other environmental elements with interactive animations and day-night transitions. 
 
 ## Project Overview
 
